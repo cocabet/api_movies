@@ -1,0 +1,1 @@
+JWTSessions.encryption_key = "14_p4l46r4_s3cr3t4_35_5p4c3"
